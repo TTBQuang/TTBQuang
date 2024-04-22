@@ -1,3 +1,6 @@
+# 💫 About Me:
+I am Quang, a third-year student of University of Science-VNUHCM
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/trần-tôn-bửu-quang-1705072b3/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@TranTonBuuQuang) 
